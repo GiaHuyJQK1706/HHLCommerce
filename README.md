@@ -1,6 +1,4 @@
-# Nghiên cứu tốt nghiệp 1
-
-Tìm hiểu một trong các mô hình thiết kế phần mềm (MVC/MVT/MVP/MVVM), tìm hiểu 1 framework xây dựng hệ thống ứng dụng và làm 1 ứng dụng web app/mobile app đơn giản
+# HHLCommerce
 
 ## Mục Lục
 
